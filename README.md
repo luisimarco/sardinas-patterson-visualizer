@@ -1,5 +1,5 @@
-# Sardinas-Patterson Visualizer
-
+# Sardinas-Patterson Visualizer (Kotlin Multiplatform)
+[![View on GitHub](https://img.shields.io/badge/View_Source_on-GitHub-black?logo=github)](https://github.com/luisimarco/sardinas-patterson-visualizer)
 An interactive console application that checks whether a code is **Uniquely Decipherable (UD)**
 using the [Sardinas-Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm).
 
