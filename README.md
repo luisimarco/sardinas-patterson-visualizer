@@ -19,7 +19,7 @@ native compilation targets, and GitHub Actions release automation.
 
 ## Download
 
-Pre-built executables are available on the [Releases](../../releases) page:
+Pre-built executables are available on the [Releases](https://github.com/luisimarco/sardinas-patterson-visualizer/releases) page:
 
 | Platform | File |
 |---|---|
